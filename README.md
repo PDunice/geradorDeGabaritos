@@ -8,7 +8,7 @@ pre-determinadas na estrutura do codigo. <br/>
 Este programa em no diretório do dropbox, que deve estar instalado no computador que irá executar o programa. <br/>
 No dropbox os seguintes diretórios devem ser criados manualmente <br/>
 <br/>
-"C:\Users\" + username +"\Dropbox\Corretor\Main\<br/>
+"C:\Users\" + username +"\Dropbox\Corretor\Main\"<br/>
 "C:\Users\" + username +"\Dropbox\Corretor\Cartao\"<br/>
 "C:\Users\" + username +"\Dropbox\Corretor\Cartao\Bases"<br/>
 "C:\Users\" + username +"\Dropbox\Corretor\Cartao\Cartoes"<br/>

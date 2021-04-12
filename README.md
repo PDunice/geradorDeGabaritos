@@ -100,8 +100,7 @@ A fonte utilizada foi Arial tamanho 30 negrito.<br/>
 +++++++++++++++++++++++++++++++++++++++++++++<br/>
 <br/>
 Este programa foi criado de forma a complementar o programa "Corretor.jar" de minha autoria também.<br/>
-Caso tenha interesse no programa para corrigir automaticamente os cartoes de resposta de<br/>
- acordo com um cartao de gabarito entre em contato.<br/>
+https://github.com/PDunice/CorretorGabaritos
 <br/>
 +++++++++++++++++++++++++++++++++++++++++++++<br/>
 <br/>

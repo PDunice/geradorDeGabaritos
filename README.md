@@ -5,19 +5,20 @@ Este programa destina-se a gerar um cartao de resposta personalizado automaticam
 pre-determinadas na estrutura do codigo. <br/>
 +++++++++++++++++++++++++++++++++++++++++++++<br/>
 <br/>
-Este programa em no diretório do dropbox, que deve estar instalado no computador que irá executar o programa. <br/>
-No dropbox os seguintes diretórios devem ser criados manualmente <br/>
+Este programa funciona no diretório do dropbox que deve estar instalado no computador que irá executar o programa. <br/>
+A estrutura básica para o funcionamento deste está no aquivo "cartao.rar" que deve ser descompactado para a pasta "Corretor" a ser criada dentro do dropbox <br/> 
 <br/>
-"C:\Users\ " + username +"\Dropbox\Corretor\Main\"<br/>
-"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\"<br/>
-"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Bases"<br/>
-"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes"<br/>
-"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 1o Bimestre"<br/>
-"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 2o Bimestre"<br/>
-"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 3o Bimestre"<br/>
-"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 4o Bimestre"<br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Main" <br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao" <br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Bases" <br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes" <br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 1o Bimestre" <br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 2o Bimestre" <br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 3o Bimestre" <br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 4o Bimestre" <br/>
 <br/>
-e dentro de cada uma das ultimas 4 pastas criar uma pasta com o nome da prova<br/>
+No dropbox os diretórios adicionais devem ser criados manualmente.  <br/> 
+Dentro de cada uma das ultimas 4 pastas criar uma pasta com o nome da prova<br/>
 Exemplo:<br/>
 "1EM_I_1_2019" onde:<br/>
 '1EM' é 1o ano do ensino médio;<br/>
@@ -26,10 +27,9 @@ Exemplo:<br/>
 '2019' é o ano de aplicação.<br/>
 <br/>
 +++++++++++++++++++++++++++++++++++++++++++++<br/>
-Para gerar os cartões deve-se copiar a pasta "imagenspadrao" para a pasta "C:\Users\ " + username +"\Dropbox\Corretor\Cartao\imagenspadrao" <br/>
-+++++++++++++++++++++++++++++++++++++++++++++<br/>
 <br/>
-Para gerar os cartões já com a matricula e nome dos alunos preenchidos o arquivo lista.txt deve estar presente no seguinte diretório "C:\Users\ " + username +"\Dropbox\Corretor\Main" <br/>
+Para gerar os cartões já com a matricula e nome dos alunos preenchidos o arquivo lista.txt deve estar presente no seguinte diretório  <br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Main" <br/>
 <br/>
 Este arquivo deve seguir o padrao:<br/>
 <br/>
@@ -39,6 +39,9 @@ Nome /t matrícula /t série<br/>
 Nome /t matrícula /t série<br/>
 Nome /t matrícula /t série<br/>
 <br/>
++++++++++++++++++++++++++++++++++++++++++++++<br/>
+Para gerar os cartões deve-se copiar a pasta "imagenspadrao" para a pasta "C:\Users\ " + username +"\Dropbox\Corretor\Cartao\imagenspadrao" <br/>
+
 +++++++++++++++++++++++++++++++++++++++++++++<br/>
 <br/>
 // feito automático pela interface <br/>

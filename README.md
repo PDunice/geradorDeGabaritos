@@ -8,14 +8,14 @@ pre-determinadas na estrutura do codigo. <br/>
 Este programa em no diretório do dropbox, que deve estar instalado no computador que irá executar o programa. <br/>
 No dropbox os seguintes diretórios devem ser criados manualmente <br/>
 <br/>
-"C:\Users\" + username +"\Dropbox\Corretor\Main\"<br/>
-"C:\Users\" + username +"\Dropbox\Corretor\Cartao\"<br/>
-"C:\Users\" + username +"\Dropbox\Corretor\Cartao\Bases"<br/>
-"C:\Users\" + username +"\Dropbox\Corretor\Cartao\Cartoes"<br/>
-"C:\Users\" + username +"\Dropbox\Corretor\Cartao\Cartoes\00 1o Bimestre"<br/>
-"C:\Users\" + username +"\Dropbox\Corretor\Cartao\Cartoes\00 2o Bimestre"<br/>
-"C:\Users\" + username +"\Dropbox\Corretor\Cartao\Cartoes\00 3o Bimestre"<br/>
-"C:\Users\" + username +"\Dropbox\Corretor\Cartao\Cartoes\00 4o Bimestre"<br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Main\"<br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\"<br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Bases"<br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes"<br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 1o Bimestre"<br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 2o Bimestre"<br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 3o Bimestre"<br/>
+"C:\Users\ " + username +"\Dropbox\Corretor\Cartao\Cartoes\00 4o Bimestre"<br/>
 <br/>
 e dentro de cada uma das ultimas 4 pastas criar uma pasta com o nome da prova<br/>
 Exemplo:<br/>
@@ -26,10 +26,10 @@ Exemplo:<br/>
 '2019' é o ano de aplicação.<br/>
 <br/>
 +++++++++++++++++++++++++++++++++++++++++++++<br/>
-Para gerar os cartões deve-se copiar a pasta "imagenspadrao" para a pasta "C:\Users\" + username +"\Dropbox\Corretor\Cartao\imagenspadrao" <br/>
+Para gerar os cartões deve-se copiar a pasta "imagenspadrao" para a pasta "C:\Users\ " + username +"\Dropbox\Corretor\Cartao\imagenspadrao" <br/>
 +++++++++++++++++++++++++++++++++++++++++++++<br/>
 <br/>
-Para gerar os cartões já com a matricula e nome dos alunos preenchidos o arquivo lista.txt deve estar presente no seguinte diretório "C:\Users\" + username +"\Dropbox\Corretor\Main" <br/>
+Para gerar os cartões já com a matricula e nome dos alunos preenchidos o arquivo lista.txt deve estar presente no seguinte diretório "C:\Users\ " + username +"\Dropbox\Corretor\Main" <br/>
 <br/>
 Este arquivo deve seguir o padrao:<br/>
 <br/>
@@ -43,7 +43,7 @@ Nome /t matrícula /t série<br/>
 <br/>
 // feito automático pela interface <br/>
 Para gerar um cartao de resposta deve-se configurar os arquivos base  na pasta "Cartao/bases" e fornecer as intrucoes para o cabecalho pela interface gráfica<br/>
-presentes na pasta "C:/" + username+ "/dropbox/Corretor/Cartao" seguindo as configurações estabelecidas neste guia.<br/>
+presentes na pasta "C:/ " + username+ "/dropbox/Corretor/Cartao" seguindo as configurações estabelecidas neste guia.<br/>
 <br/>
 +++++++++++++++++++++++++++++++++++++++++++++<br/>
 <br/>

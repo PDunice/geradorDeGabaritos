@@ -2,7 +2,7 @@
 Corretor de gabaritos escolares estilo Vestibular/ENEM/PAS
 
 Este programa destina-se a gerar um cartao de resposta personalizado automaticamente seguindo as configurações 
-pre-determinadas na estrutura do codigo.
+pre-determinadas na estrutura do codigo. /n
 +++++++++++++++++++++++++++++++++++++++++++++
 
 Este programa em no diretório do dropbox, que deve estar instalado no computador que irá executar o programa. 
